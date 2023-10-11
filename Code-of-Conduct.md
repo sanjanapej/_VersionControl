@@ -1,34 +1,3 @@
-{
- "cells": [
-  {
-   "cell_type": "markdown",
-   "metadata": {},
-   "source": []
-  }
- ],
- "metadata": {
-  "kernelspec": {
-   "display_name": "Python 3",
-   "language": "python",
-   "name": "python3"
-  },
-  "language_info": {
-   "codemirror_mode": {
-    "name": "ipython",
-    "version": 3
-   },
-   "file_extension": ".py",
-   "mimetype": "text/x-python",
-   "name": "python",
-   "nbconvert_exporter": "python",
-   "pygments_lexer": "ipython3",
-   "version": "3.8.3"
-  }
- },
- "nbformat": 4,
- "nbformat_minor": 4
-}
-
 GitHub is dedicated to providing a positive and harassment-free event experience for everyone, regardless of age, gender, gender identity and expression, sexual orientation, disability, personal appearance, body size, ethnicity, race, religion, nationality, or level of experience. We do not tolerate harassment of event participants in any form, nor do we tolerate any behavior that would reasonably lead to another event participant being made to feel unsafe, insecure, or frightened for their physical or emotional well-being. All communication should be appropriate for a professional audience including people of many different backgrounds.
 
 Examples of encouraged behavior that contributes to a positive environment include:
