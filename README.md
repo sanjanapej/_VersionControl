@@ -4,4 +4,5 @@ Group Members:
 Ife Olusoga
 Sanjana Pejathaya
 
+The Code of Conduct was specifically chosen as it mirrors both what our open source software entails and the GitHub rules. Therefore, we chose to use it as our frame. Furthermore, our liscence also discusses the basis of most open source softwares. 
 
